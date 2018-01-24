@@ -6,3 +6,50 @@ Green: #00B172
 White: #FFF
 
 */
+
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
+nav {
+    height: 20px;
+    width: 100%;
+}
+
+#spotify-logo {
+    height: 65px;
+    width: 280px;
+}
+#top-body {
+    margin-top: 75px;
+    background-image: url("/Users/martingenet/Desktop/Ironhack/soloprogramming/lab-css-spotify-clone/starter-code/images/landing.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 750px;
+    width: 100%;
+    color: white;
+    text-align: center;
+   
+}
+#nav-bar {
+    text-align: right;
+    font-size: 23px;
+    
+    
+}
+#header1 {
+    padding-top: 325px;
+    font-size: 80px;
+
+}
+
+section p {
+    font-size: 30px;
+}
+#what {
+    text-align: center;
+    font-size: 40px;
+
+}
+
+
